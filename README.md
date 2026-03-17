@@ -70,5 +70,5 @@ Description: Compares the total sales attributed to each payment method, indicat
 Relationship Between Discount and Total Sales (Scatter Plot):
 
 File Name: discount_vs_sales_scatter.png
-README.md Link: ![Discount vs. Total Sales](discount_vs_sales_scatter.png)
+README.md Link: ![Discount vs. Total Sales](relationship_between_discount_and_total_sales.png)
 Description: Explores how different discount levels correlate with total sales, offering insights into pricing strategies.
