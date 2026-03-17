@@ -36,3 +36,39 @@ The analysis uses the `amazon_sales_dataset.csv` file, which contains detailed t
 -   Predictive modeling for sales forecasting or customer churn.
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Hadi02-gif/Amazon_Sales_Analysis/blob/main/Visualizing_Business_KPIs.ipynb)
+
+Revenue Over Time:
+
+File Name (after saving): revenue_over_time.png
+README.md Link: ![Revenue Over Time](revenue_over_time.png)
+Description: Shows the overall sales trend and any seasonality or significant changes in revenue over the analyzed period.
+
+Top 10 Products by Total Sales:
+
+File Name: top_10_products.png
+README.md Link: ![Top 10 Products by Total Sales](top_10_products.png)
+Description: Highlights the best-performing products, indicating which items are driving the most sales.
+
+Customer Distribution by Country (or Top 10 Countries):
+
+File Name: customer_distribution_by_country.png
+README.md Link: ![Customer Distribution by Country](customer_distribution_by_country.png)
+Description: Visualizes where the customer base is geographically concentrated, showing key markets.
+
+Top Categories by Total Sales:
+
+File Name: top_categories_by_sales.png
+README.md Link: ![Top Categories by Total Sales](top_categories_by_sales.png)
+Description: Illustrates which product categories generate the most revenue, useful for inventory and marketing strategies.
+
+Total Sales by Payment Method:
+
+File Name: sales_by_payment_method.png
+README.md Link: ![Total Sales by Payment Method](sales_by_payment_method.png)
+Description: Compares the total sales attributed to each payment method, indicating popular options.
+
+Relationship Between Discount and Total Sales (Scatter Plot):
+
+File Name: discount_vs_sales_scatter.png
+README.md Link: ![Discount vs. Total Sales](discount_vs_sales_scatter.png)
+Description: Explores how different discount levels correlate with total sales, offering insights into pricing strategies.
