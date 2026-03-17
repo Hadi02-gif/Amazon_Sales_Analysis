@@ -46,7 +46,7 @@ Description: Shows the overall sales trend and any seasonality or significant ch
 Top 10 Products by Total Sales:
 
 File Name: top_10_products.png
-README.md Link: ![Top 10 Products by Total Sales](top_10_products.png)
+README.md Link: ![Top 10 Products by Total Sales](top_10_products_by_total_sales.png)
 Description: Highlights the best-performing products, indicating which items are driving the most sales.
 
 Customer Distribution by Country (or Top 10 Countries):
