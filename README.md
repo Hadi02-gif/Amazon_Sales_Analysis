@@ -58,7 +58,7 @@ Description: Visualizes where the customer base is geographically concentrated, 
 Top Categories by Total Sales:
 
 File Name: top_categories_by_sales.png
-README.md Link: ![Top Categories by Total Sales](top_categories_by_sales.png)
+README.md Link: ![Top Categories by Total Sales](top_10_categories_by_total_sales.png)
 Description: Illustrates which product categories generate the most revenue, useful for inventory and marketing strategies.
 
 Total Sales by Payment Method:
