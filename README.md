@@ -34,3 +34,5 @@ The analysis uses the `amazon_sales_dataset.csv` file, which contains detailed t
 -   Further segmentation of customer demographics (e.g., by city, customer ID analysis).
 -   In-depth analysis of order status and delivery times.
 -   Predictive modeling for sales forecasting or customer churn.
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Hadi02-gif/Amazon_Sales_Analysis/blob/main/Visualizing_Business_KPIs.ipynb)
