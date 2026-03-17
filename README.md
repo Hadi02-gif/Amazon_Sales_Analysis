@@ -64,7 +64,7 @@ Description: Illustrates which product categories generate the most revenue, use
 Total Sales by Payment Method:
 
 File Name: sales_by_payment_method.png
-README.md Link: ![Total Sales by Payment Method](sales_by_payment_method.png)
+README.md Link: ![Total Sales by Payment Method](total_sales_by_payment_method.png)
 Description: Compares the total sales attributed to each payment method, indicating popular options.
 
 Relationship Between Discount and Total Sales (Scatter Plot):
