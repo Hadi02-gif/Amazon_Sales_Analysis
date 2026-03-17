@@ -1,2 +1,36 @@
 # Amazon_Sales_Analysis
 This project involves an analysis of Amazon sales data to visualize key business performance indicators (KPIs) and customer demographics. It covers revenue trends, top-selling products, customer distribution, sales by category and payment method, shipping costs, and the impact of discounts to provide actionable insights for business strategy.
+## Dataset
+The analysis uses the `amazon_sales_dataset.csv` file, which contains detailed transaction records including order information, customer details, product categories, sales figures, discounts, shipping costs, and payment methods.
+
+## Key Performance Indicators (KPIs) Analyzed:
+1.  **Revenue Over Time:** Visualized monthly total revenue to identify sales trends and seasonality.
+2.  **Top 10 Products by Sales:** Identified and displayed the top 10 products contributing most to total sales.
+3.  **Customer Demographics by Country & State:** Analyzed and visualized the distribution of customers across different countries and states.
+4.  **Sales by Product Category:** Explored total sales across various product categories to highlight best-performing segments.
+5.  **Sales by Payment Method:** Examined total sales generated through different payment methods.
+6.  **Shipping Costs by Payment Method:** Compared total shipping costs associated with various payment methods.
+7.  **Relationship Between Discount and Total Sales:** Visualized the correlation between discount percentages and total sales to understand pricing strategies.
+8.  **Average Order Value by Payment Method:** Calculated and displayed the average order value for each payment method.
+9.  **Shipping Costs by Category:** Compared total shipping costs across different product categories.
+
+## Tools and Libraries Used
+-   **Python:** Programming language.
+-   **Pandas:** For data manipulation and analysis.
+-   **Matplotlib, Seaborn, Plotly Express:** For data visualization.
+-   **Google Colab:** For developing and running the Python notebooks.
+
+## How to Run the Project
+1.  **Clone the repository:**
+    ```bash
+    git clone https://github.com/Hadi02-gif/Amazon_Sales_Analysis.git
+    cd Amazon_Sales_Analysis
+    ```
+2.  **Open the notebook:** Upload `amazon_sales_analysis.ipynb` to Google Colab or open it in a Jupyter environment.
+3.  **Ensure the dataset is present:** Make sure `amazon_sales_dataset.csv` is in the same directory as the notebook.
+4.  **Run the cells:** Execute the cells sequentially in the notebook to reproduce the analysis and visualizations.
+
+## Future Enhancements
+-   Further segmentation of customer demographics (e.g., by city, customer ID analysis).
+-   In-depth analysis of order status and delivery times.
+-   Predictive modeling for sales forecasting or customer churn.
